@@ -11,11 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-<<<<<<< HEAD
                                         <string>https://dl.dropboxusercontent.com/s/7bni1egck7cwjzt/MartPointer.ipa</string>
-=======
-                                        <string>https://dl.dropboxusercontent.com/s//.ipa</string>
->>>>>>> origin/master
                                 </dict>
                         </array>
                         <key>metadata</key>
