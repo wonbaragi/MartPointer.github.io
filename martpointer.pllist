@@ -11,11 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-<<<<<<< Updated upstream
-                                        <string>https://dl.dropboxusercontent.com/s//MartPointer.ipa</string>
-=======
                                         <string>https://dl.dropboxusercontent.com/s/agux3ej2qvsiu9t/MartPointer.ipa</string>
->>>>>>> Stashed changes
                                 </dict>
                         </array>
                         <key>metadata</key>
